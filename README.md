@@ -2,12 +2,24 @@
 
 To do list:
 
-First person movement character
-Third person movement character
+First person + third person movement character
 
 Automatic timer
 
 Game manager
 
 Particle / VFX player
-e
+
+Startmenu + Options menu
+
+Cinematic switch
+
+CineMachine options
+
+Animation Controller
+
+Projectile shooter + hitscan shooter
+
+Simple AI
+
+finite state machine
