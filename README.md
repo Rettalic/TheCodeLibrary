@@ -2,7 +2,8 @@
 
 To do list:
 
-First person + third person movement character
+First person + third person movement character:  
+Objecttransparency, clipping etc
 
 Automatic timer
 
@@ -19,7 +20,18 @@ CineMachine options
 Animation Controller
 
 Projectile shooter + hitscan shooter
+Melee combat
 
-Simple AI
+Simple AI: Simple pathfinding
 
 finite state machine
+
+Dialogue system
+
+OntriggerEvents
+
+OnPickedUp
+
+Inventory system
+
+Blending music / adaptive soundtracks
