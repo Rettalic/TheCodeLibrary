@@ -32,6 +32,7 @@ OntriggerEvents
 
 OnPickedUp
 
-Inventory system
+Inventory system + Active objects
+
 
 Blending music / adaptive soundtracks
